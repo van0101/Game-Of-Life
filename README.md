@@ -33,3 +33,5 @@ Read about Conway's Game of Life [here](https://en.wikipedia.org/wiki/Conway%27s
 1. Add spring framework for better dependency injection.
 2. Develop framework to collect data points which can be used for strategies or analysis.
 3. Addition of the second player and update rules accordingly.
+
+###### DATE CREATED : JULY 2020
